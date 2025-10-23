@@ -8,7 +8,7 @@ This Power BI project provides an analytical view of a food delivery company’s
 
 The main goal of this project is to analyze sales and performance trends across different food categories, cities, and time periods to understand customer preferences and identify areas for growth.
 
-📂 Dataset Description
+## Dataset Description
 
 File: FoodDelivery_Sales_Data_InSession.xlsx
 The dataset includes details such as:
@@ -29,7 +29,7 @@ Order Date & Time
 
 Delivery Duration
 
-🧠 Key Insights
+## Key Insights
 
 Top Performing Cities: Identified cities contributing the highest sales volume.
 
@@ -41,11 +41,13 @@ Delivery Insights: Observed how delivery time impacts customer experience and sa
 
 Revenue Growth: Measured month-over-month changes to track sales performance.
 
+
 ## Tools Used
 
 Microsoft Power BI – For dashboard creation and visualization
 
 Microsoft Excel – For dataset cleaning and preparation
+
 
 ## Dashboard Features
 
@@ -56,8 +58,6 @@ Dynamic visuals for sales trend, category analysis, and top-performing products
 KPI cards for Total Sales, Orders, and Average Order Value
 
 Drill-down options for detailed exploration
-
-
 
 ## Conclusion
 
