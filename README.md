@@ -1,6 +1,6 @@
 
-Food Delivery Sales Analysis Dashboard
-📊 Project Overview
+#Food Delivery Sales Analysis Dashboard
+##Project Overview
 
 This Power BI project provides an analytical view of a food delivery company’s sales performance. It explores key business metrics such as total sales, order volume, customer behavior, and delivery trends — offering actionable insights to improve marketing strategies, optimize operations, and enhance customer satisfaction.
 
